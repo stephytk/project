@@ -1,0 +1,51 @@
+body{
+	
+	background-repeat: no-repeat;
+
+}
+.login{
+	width: 10%;
+	height: 300px;
+}
+.log{
+	height: 280px;
+	}
+	.input{
+		width: 100%;
+		border-radius: 2px;
+		padding-top: 10px;
+		margin-top: 10px;
+		border-top-color:transparent;
+		border-right-color: transparent;
+		border-left-color: transparent;
+		border-bottom-color: grey;
+
+	}
+	.btn{
+		width:100%;
+		
+
+	}
+	.lab{
+		padding-top: 20px;
+	}
+	.forgot{
+		padding-left: 120px;
+		color: black;
+		text-decoration: none;
+
+
+	}
+	.loginimage{
+		width: 50%;
+		height: 550px;
+	}
+	.head{
+		padding-left: 50PX;
+	}
+	.user{
+		width: 25%;
+		height: 100px;
+		padding-left: 50px;
+		margin-left: 150px;
+	}

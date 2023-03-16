@@ -1,0 +1,20 @@
+.card-title{
+	padding-top: 200px;
+	padding-left: 30px;
+}
+.card-text{
+	padding-left: 30px;
+}
+.btn{
+	margin-left: 40px;
+	margin-top: 20px;
+}
+.star{
+	width:30%;
+	height: 40px;
+	padding-left: 30px;
+}
+.mediaicon{
+	width: 20%;
+	height: 80px;
+}

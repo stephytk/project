@@ -1,0 +1,46 @@
+body{
+  background-color: whitesmoke;
+}
+.logo{
+  height: 70px;
+  width: 100px;
+}
+.card-img-top{
+  height: 250px;
+  width:80%;
+  padding-left:80px;
+padding-top: 30px;
+
+}
+.card-img-top:hover{
+  
+}
+.mediaicon{
+  width: 20%;
+  height: 80px;
+}
+.topbtn{
+  text-decoration: none;
+ 
+
+
+}
+.btn-top{
+ margin-left: 250px;
+border-radius: 5px;
+border-color: transparent;
+width: 30%;
+background-color: transparent;
+}
+.btn-top1{
+ 
+  border-color: transparent;
+  background-color: transparent;
+  width: 40%;
+  margin-left: 70px;
+  color: black;
+
+}
+.btn-top1:hover{
+  color: darkred;
+}
